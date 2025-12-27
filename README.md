@@ -100,7 +100,7 @@ This is not a demo — it’s a continuously evolving product with production tr
 
 - GitHub: you’re already here
 - Product: https://leftnote.com/
-- LinkedIn: *(add your profile link)*
+- LinkedIn: https://www.linkedin.com/in/abhinav-kr-shukla/
 
 ---
 
