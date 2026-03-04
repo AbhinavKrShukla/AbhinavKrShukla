@@ -1,106 +1,143 @@
-# 👋 Hi, I'm Abhinav
+<div align="center">
 
-I build **production-ready web systems** — backend-heavy, performance-conscious, and designed to scale — while still caring deeply about clean user experience.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56db,100:6366f1&height=200&section=header&text=Abhinav%20Kumar%20Shukla&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
-I enjoy working across the stack, from **database design and APIs** to **frontend delivery and infrastructure**, and I especially like solving real product problems rather than isolated demos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-kr-shukla)
+[![Portfolio](https://img.shields.io/badge/LeftNote-leftnote.com-1a56db?style=for-the-badge&logo=google-chrome&logoColor=white)](https://leftnote.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%2FML%20%26%20Backend%20Roles-22c55e?style=for-the-badge&logo=briefcase&logoColor=white)](#)
+
+</div>
 
 ---
 
-## 🚀 What I Do
+## 👋 About Me
 
-- Build **full-stack web applications** end to end
-- Design **scalable backend architectures**
-- Develop **AI-powered automation & agents**
-- Optimize **database, cache, and search workflows**
-- Deploy and manage apps on **VPS, Docker, and self-hosted platforms**
+I'm a final-year **B.Sc. Computer Science** student who builds AI-powered products and ships them to production — not just notebooks.
+
+I work at the intersection of **LLM engineering** and **full-stack development**: building RAG pipelines, fine-tuning language models, designing multi-agent systems, and wrapping it all in real web applications that real people use.
+
+- 🤖 Currently deep in **LangChain, RAG, CrewAI, and LLM fine-tuning**
+- 🚀 Deployed multiple live apps on self-managed **Linux VPS** (Docker + Caprover + Gunicorn)
+- 🛒 Built products with **150+ real users** and payment integrations
+- 🎯 Looking for **AI/ML Engineer or Backend + AI roles** where I can build things that matter
 
 ---
 
 ## 🧠 Tech Stack
 
-### Frontend
-- React.js, Next.js  
-- React Native  
-- HTML5, CSS3, Tailwind CSS  
-- UI/UX implementation from Figma designs
+**AI / ML**
 
-### Backend
-- Django, Django REST Framework  
-- Laravel (PHP)  
-- REST APIs, authentication systems, payment flows, webhooks  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6366f1?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-ef4444?style=flat-square)
+![Unsloth](https://img.shields.io/badge/Unsloth-LoRA%20Fine--Tuning-f59e0b?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-000000?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-API-f97316?style=flat-square)
 
-### Databases, Cache & Search
-- PostgreSQL, MySQL, MongoDB  
-- Redis (caching, homepage feeds, fast reads)  
-- Meilisearch (search indexing & filtering)
+**Backend & Full-Stack**
 
-### DevOps & Infrastructure
-- Docker, CapRover  
-- VPS (Ubuntu)  
-- Nginx, Caddy, FrankenPHP  
-- Git, CI/CD pipelines
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-### AI & Automation
-- Python-based AI agents  
-- Automated cold email systems  
-- Telegram bots for monitoring & analytics  
-- Dashboarding & data pipelines
+**DevOps & Infra**
 
----
-
-## 🧩 Featured Project
-
-## **LeftNote** — Digital Content Platform  
-🔗 https://leftnote.com/
-
-**LeftNote** is a real-world web platform built to **sell, manage, and securely distribute digital documents**.
-
-This is not a demo — it’s a continuously evolving product with production traffic, payments, and real users.
-
-### What I Built
-- Full backend using **Django + PostgreSQL**
-- Secure document storage and controlled downloads
-- Payment gateway integration with webhook handling
-- Purchase verification & access control logic
-- SEO-friendly public pages
-- Admin-focused workflows for content management
-- Performance optimizations using **Redis caching**
-- Clean separation of public, authenticated, and paid content
-
-### What It Demonstrates
-- End-to-end product ownership
-- Backend-heavy decision making
-- Real payment & security concerns
-- Scalable data modeling
-- Deployment and infrastructure responsibility
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20VPS-self--managed-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 
 ---
 
-## 🤖 AI Agent – Personalized Email Outreach
+## 🚀 Featured Projects
 
-- Built an AI-powered system to generate **personalized cold emails**
-- Integrated with campaign tools and analytics platforms
-- Telegram bots for real-time reporting
-- Automated outreach with performance tracking
-- Focused on improving engagement and response rates
+### 🏥 [MediMan](https://mediman.leftnote.com) — Medical AI Chatbot
+> LangChain · RAG · Pinecone · FastAPI · Groq · Docker
 
----
-
-## 🛠 How I Think About Engineering
-
-- Prefer **clarity over cleverness**
-- Simple systems that scale beat complex ones that don’t
-- Data flow should be predictable
-- Debug before rewriting
-- Optimize only where it actually matters
+A production-deployed medical chatbot powered by RAG. Chunked and embedded medical encyclopedia PDFs into Pinecone; a LangChain agent with Groq LLM answers context-aware questions. FastAPI backend + Flask frontend, deployed via Docker and Caprover on a self-managed Linux VPS.
 
 ---
 
-## 📫 Connect
+### 🤖 [LeftNote-AI-Builder](https://github.com/AbhinavKrShukla/LeftNote-AI-Builder) — Multi-Agent Code Generator
+> LangChain · CrewAI · Multi-Agent · Python
 
-- Product: https://leftnote.com/
-- LinkedIn: https://www.linkedin.com/in/abhinav-kr-shukla/
+A Lovable-inspired multi-agent system with an autonomous **Plan → Design → Code → Review** loop. Built to understand the full depth of agentic architectures and agent orchestration with CrewAI.
 
 ---
 
-> *Build useful things. Ship them. Improve relentlessly.*
+### 🧬 LLM Fine-Tuning — Custom Personality Models
+> Unsloth · LoRA/PEFT · Ollama · Python
+
+Fine-tuned open-source LLMs on custom conversational datasets using Unsloth (LoRA/PEFT). Ran local inference via Ollama — full ownership from data prep to deployment, no API dependency.
+
+---
+
+### 📚 [LeftNote](https://leftnote.com) — Educational Marketplace
+> Django · PostgreSQL · Payments · Docker · SEO
+
+A live educational document marketplace with **150+ users** and **300+ downloads**. Integrated a real payment gateway, SEO optimization, and self-deployed on Linux VPS using Docker and Caprover.
+
+---
+
+### 🏠 [OneSquares](https://onesquares.com) — Real Estate Platform *(Client)*
+> Django · PostgreSQL · Docker
+
+Client-facing property listing platform with advanced search, image galleries, and a full admin panel for property management.
+
+---
+
+### 🛒 [PicksyStores](https://picksystores.com) — E-commerce Platform *(Client)*
+> Django · PostgreSQL · REST APIs
+
+Full-stack e-commerce platform with product management, cart, payment integration, and admin dashboard.
+
+---
+
+## 📈 Currently Learning
+
+- 🔬 Advanced **agentic workflows** and **tool-use patterns** with LangChain & CrewAI
+- 🧪 **Evaluation and observability** for LLM applications (LangSmith, tracing)
+- ⚡ **Vector search optimization** and hybrid retrieval strategies
+- 🧠 Deeper **fine-tuning techniques** — DPO, RLHF, and quantization
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhinavKrShukla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavKrShukla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AbhinavKrShukla&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively looking for **AI/ML Engineer** and **Backend + AI** roles — remote or otherwise. If you're building something interesting with LLMs, RAG, or agentic systems, I'd love to talk.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-kr-shukla)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:1a56db&height=100&section=footer&animation=fadeIn" />
+
+</div>
