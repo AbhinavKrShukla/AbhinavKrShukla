@@ -109,23 +109,6 @@ Full-stack e-commerce platform with product management, cart, payment integratio
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhinavKrShukla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavKrShukla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AbhinavKrShukla&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm actively looking for **AI/ML Engineer** and **Backend + AI** roles — remote or otherwise. If you're building something interesting with LLMs, RAG, or agentic systems, I'd love to talk.
